@@ -1,0 +1,9 @@
+  bash arg: -p
+  bash arg: com.iaiyi.knowledge
+  bash arg: -v
+  bash arg: 5000
+:Monkey: seed=1681631520361 count=5000
+:AllowPackage: com.iaiyi.knowledge
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+** No activities found to run, monkey aborted.
